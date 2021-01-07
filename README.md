@@ -7,6 +7,8 @@
     * Edit the document by adding information about yourself to it.
     * This will be accomplished over the course of several days.
     * Use the skills learned in the HTML and CSS lessons to complete this project.
+    * "Ask three before me"
+        * We are here to help, but please check web resources or consult with peers prior to asking Instructor/TAs. This   helps build your "search muscles" which are very important to your Web Development Journey.
     * The objective is to achieve a portfolio with comparable quality to the image below.
 
 ![](./img/portfolio-example.png)
