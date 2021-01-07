@@ -1,7 +1,7 @@
 # Online-Resume
 
 * **Objective** - To create a personalized online resume detailing yourself.
-* **Purpose** - To establish familiarity with CSS and basic HTML.
+* **Purpose** - To establish familiarity with CSS and HTML.
 * **Description**
     * You are provided with an `index.html` document at the root of this project, and a `style.css` in the `css` folder.
     * Edit the document by adding information about yourself to it.
@@ -45,4 +45,4 @@
 * click the `Pull Requests` tab.
 * select `New Pull Request`
 
-Modified from Leon Hunter.
+Adapted from Leon Hunter.
