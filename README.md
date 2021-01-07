@@ -8,7 +8,7 @@
     * This will be accomplished over the course of several days.
     * Use the skills learned in the HTML and CSS lessons to complete this project.
     * "Ask three before me"
-        * We are here to help, but please check web resources or consult with peers prior to asking Instructor/TAs. This   helps build your "search muscles" which are very important to your Web Development Journey.
+        * We are here to help, but please check web resources or consult with peers prior to asking Instructor/TAs. This   helps build your "search muscles" which are very important to your future roles as Developers.
     * The objective is to achieve a portfolio with comparable quality to the image below.
 
 ![](./img/portfolio-example.png)
