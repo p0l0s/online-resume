@@ -9,4 +9,4 @@
     * Use the skills learned in the HTML and CSS lessons to complete this project.
     * The objective is to achieve a portfolio with comparable quality to the image below.
 
-![](./img/portfolio-example)
+![](./img/portfolio-example.png)
