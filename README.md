@@ -30,19 +30,19 @@
 
 ### Part 3 - _Pushing_ new changes to repository
 
-* from a _terminal_ navigate to the root directory of the _cloned_ project.
-* from the root directory of the project, execute the following commands:
+* From a _terminal_ navigate to the root directory of the _cloned_ project.
+* From the root directory of the project, execute the following commands:
     * `git add .`
-        * add all files in current directory to the staging area       
+        * Add all files in current directory to the staging area       
     * `git commit -m 'I have made an edit to a file!'`
-        * save all staged changes to local repository
+        * Save all staged changes to local repository
     * `git push -u origin main`
-        * push changes from local repository to remote repository
+        * Push changes from local repository to remote repository
 
 ### Part 4 - Submitting assignment
 
-* from the browser, navigate to the _forked_ project from **your** Github account.
-* click the `Pull Requests` tab.
-* select `New Pull Request`
+* From the browser, navigate to the _forked_ project from **your** Github account.
+* Click the `Pull Requests` tab.
+* Select `New Pull Request`
 
 Adapted from Leon Hunter.
