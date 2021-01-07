@@ -23,7 +23,7 @@
 
 * from a text editor (i.e. - Visual Studio Code), select:
   * `File` > `Add Folder to WorkSpace`
-    * Select the directory you use to store your code (ex. `dev` directory) 
+    * Select the directory you use to store your projects (ex. `dev` directory) 
     * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project
     * Expand the project from the _project explorer (may just be called `explorer`)_
     * Modify the `index.html` and `style.css` by adjusting the data to fit your persona.
