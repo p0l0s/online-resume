@@ -44,3 +44,5 @@
 * from the browser, navigate to the _forked_ project from **your** Github account.
 * click the `Pull Requests` tab.
 * select `New Pull Request`
+
+Modified from Leon Hunter.
