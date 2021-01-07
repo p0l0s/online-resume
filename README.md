@@ -1,6 +1,6 @@
 # Online-Resume
 
-* **Objective** - To create a personalized online resume detailing yourself.
+* **Objective** - To create a personalized online resume detailing your career profile (or professional summary), experience, and education.
 * **Purpose** - To establish familiarity with CSS and HTML.
 * **Description**
     * You are provided with an `index.html` document at the root of this project, and a `style.css` in the `css` folder.
